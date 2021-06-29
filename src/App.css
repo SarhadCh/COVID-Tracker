@@ -15,6 +15,13 @@
   border-radius: 5px;
 }
 
+.app__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
 .app__header > h1 {
   color: #b0dff1;
   font-size: 2.5rem;
